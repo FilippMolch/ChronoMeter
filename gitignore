@@ -1,4 +1,4 @@
-**/Debug
-**/Release
-**/chronometer.componentinfo.xml
-**/chronometer.cproj
+/Debug
+/Release
+chronometer.componentinfo.xml
+chronometer.cproj
